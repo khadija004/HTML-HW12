@@ -1,6 +1,5 @@
 *{
     padding: 0;
-    margin: 0;
 }
 
 body{
@@ -13,12 +12,13 @@ body{
 }
 .right-side{
     margin: auto;
+    margin-right: 40px;
     width: 45%;
-    margin-bottom: 100px;
 }
-/* .all{
+.all{
     display: flex;
-} */
+    margin: 0 80px;
+}
 .form-title{
     color: #222;
     font-weight: 700;
@@ -60,7 +60,6 @@ input{
     font-size: 14px;
     color: #222;
     display: block;
-    text-align: center;
 }
 
 
