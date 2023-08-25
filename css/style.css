@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.left-side{
+    margin-right: auto;
+    margin-top: 100px;
+    width: 45%;
+}
+.right-side{
+    margin: auto;
+    width: 45%;
+    margin-bottom: 100px;
+}
+/* .all{
+    display: flex;
+} */
+.form-title{
+    color: #222;
+    font-weight: 700;
+    font-size: 36px;
+    margin:0 0 15px 25px;
+
+}
+.sign-form{
+    width: 100%;
+}
+.form-group{
+    padding: 30px 30px;
+
+}
+
+input{
+    border-bottom: 1px solid #999;
+    border: none;
+    outline: none;
+}
+
+.term-service{
+    font-size: 15px;
+    color: #222;
+}
+
+.form-button input{
+    background: #6dabe4;
+    color: #fff;
+    border-bottom: none;
+    width: auto;
+    padding: 20px 40px;
+    margin-top: 25px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.right-side a{
+    font-size: 14px;
+    color: #222;
+    display: block;
+    text-align: center;
+}
+
+
